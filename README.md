@@ -4,4 +4,9 @@ How to launch this game:
 
 Changelog:
 
-Alpha 0.0.1 (28/6/2018) - Added basic character creation.
+Alpha 29.6.18	- Added basic character creation.
+		- Added the tundra biome.
+		- Added time.
+		- Added a simple end screen.
+
+This game was tested on Windows 10. Other operating systems may not work as intended.
